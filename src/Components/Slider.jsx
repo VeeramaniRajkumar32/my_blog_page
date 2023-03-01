@@ -14,7 +14,8 @@ function Slider() {
           checked="checked"
         />
         <div class="carousel-item">
-          <img src="http://fakeimg.pl/2000x800/0079D8/fff/?text=Without" />
+          {/* <img src="http://fakeimg.pl/2000x800/0079D8/fff/?text=Without" /> */}
+          <img src="/images/Jtj5S2.jpg" />
         </div>
         <input
           class="carousel-open"
